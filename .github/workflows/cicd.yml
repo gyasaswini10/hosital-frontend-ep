@@ -1,4 +1,4 @@
-name: Hospital Lab Exam
+name: hospital-backend 
 
 on:
   push:
